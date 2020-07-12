@@ -1,0 +1,10 @@
+name: FactionsColosseum
+author: 2xjtn
+main: org.jacob.spigot.plugins.FactionsColosseum
+version: 1.0-SNAPSHOT
+api-version: "1.13"
+softdepend:
+  - WorldEdit
+commands:
+  c:
+    description: Main command for FactionsColosseum.
